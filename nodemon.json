@@ -1,0 +1,6 @@
+{
+  "env": {
+    "DB_USER": "mobilicis_india",
+    "DB_PASSWORD": "mobilicis_india"
+  }
+}
